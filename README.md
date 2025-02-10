@@ -1,1 +1,3 @@
 # BJT
+tsc 
+calculation
